@@ -7,7 +7,7 @@ This repository hosts the frontend code for a web application. The platform enab
 1. **Clone the Repository**: Clone this repository to your local machine using the following command:
 
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/DheerajKandoor/ENTNT-ERP-SYSTEM>
    ```
 
 2. **Navigate to the Project Directory**: Change your current directory to the project directory:
