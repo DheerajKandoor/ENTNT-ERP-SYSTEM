@@ -39,11 +39,13 @@ This repository hosts the frontend code for a web application. The platform enab
    ```bash
    yarn start
    ```
+5. **DEPLOYMENT**: [Link to deployed project](https://entnt-erp-system.onrender.com/)
 
-5. **Access the Application**: Once the server is running, you can access the application by opening your web browser and navigating to [http://localhost:3000](http://localhost:3000).
+
+6. **Access the Application**: Once the server is running, you can access the application by opening your web browser and navigating to [http://localhost:3000](http://localhost:3000).
 
 ## Interaction with the Website & Usage of the Web Application
 
 [entnt-erp.webm](https://github.com/DheerajKandoor/ENTNT-ERP-SYSTEM/assets/92793181/00bbbd09-3fed-41e7-9ed3-fcd79f311c1a)
 
-6. **DEPLOYMENT**: [Link to deployed project](https://entnt-erp-system.onrender.com/)
+
