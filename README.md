@@ -45,3 +45,5 @@ This repository hosts the frontend code for a web application. The platform enab
 ## Interaction with the Website & Usage of the Web Application
 
 [entnt-erp.webm](https://github.com/DheerajKandoor/ENTNT-ERP-SYSTEM/assets/92793181/00bbbd09-3fed-41e7-9ed3-fcd79f311c1a)
+
+6. **DEPLOYMENT**: [Link to deployed project](https://entnt-erp-system.onrender.com/)
