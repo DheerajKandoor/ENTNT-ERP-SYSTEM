@@ -1,4 +1,4 @@
-# Simplified ERP System with React Documentation
+# Simplified ERP System
 
 This repository hosts the frontend code for a web application. The platform enables users to oversee products and orders, as well as access calendar views to track expected delivery dates. The system is developed using React.
 
